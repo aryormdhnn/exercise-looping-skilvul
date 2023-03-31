@@ -12,15 +12,6 @@ for (var i = 0; i < jumlahPengulangan; i++) {
 }
 
 // Soal Nomor 3:
-for (var i = 0; i <= 20; i++) {
-    if (i % 2 === 0) {
-      console.log(i + " adalah bilangan genap");
-    } else {
-      console.log(i + " adalah bilangan ganjil");
-    }
-  }
-
-// Soal Nomor 4:
   var jumlahKlikOK = 0;
 
   while (true) {
