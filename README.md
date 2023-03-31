@@ -11,7 +11,8 @@ Pada setiap perulangan, variabel i akan diberikan nilai baru yang dimulai dari 1
 Jadi, pada setiap perulangan, akan dicetak teks "User ke - " diikuti dengan nomor urut pengguna mulai dari 1 hingga 100.
 
 
-#Penjelasan Untuk Nomor 2
+# Penjelasan Untuk Nomor 2
+
 var nilaiAwal = 0;
 var jumlahPengulangan = 10;
 
