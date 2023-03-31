@@ -23,16 +23,3 @@ for (var i = 0; i < jumlahPengulangan; i++) {
       break;
     }
   }
-
-  // Soal Nomor 4:
-  var jawaban = "Impact Byte";
-
-while (true) {
-  var input = prompt("Sebutkan kepanjangan dari nama IB ?");
-  if (input === jawaban) {
-    alert("Selamat, jawaban kamu benar!");
-    break;
-  } else {
-    alert("Maaf, jawaban kamu salah. Silakan coba lagi.");
-  }
-}
